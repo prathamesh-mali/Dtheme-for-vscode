@@ -6,6 +6,7 @@
 		//---------tabs-----------
 		"tab.activeBackground": "#2a2c2e",
 		"tab.inactiveBackground": "#333333",
+		//--------editor ----------
 		"editor.background": "#2a2c2e",
 		"editorCursor.foreground": "#F8F8F0",
 		"editor.foreground": "#efcaf8",
@@ -16,8 +17,6 @@
 		//"terminal.ansiBlue": "#fc4384",
 		"terminal.foreground": "#A6E22E",
 		"terminalCursor.foreground": "#ffff",
-		//----windows-----------
-		"window.inactiveBorder": "#A6E22E",
 		//----------button -------
 		"button.background": "#A6E22E",
 		"button.hoverBackground": "#A6E22E",
