@@ -14,7 +14,6 @@
 		"focusBorder": "#A6E22E",
 		"editorBracketMatch.background": "#ffffff13",
 		//-------terminal ---------
-		//"terminal.ansiBlue": "#fc4384",
 		"terminal.foreground": "#A6E22E",
 		"terminalCursor.foreground": "#ffff",
 		//----------button -------
